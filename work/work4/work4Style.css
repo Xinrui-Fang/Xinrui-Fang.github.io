@@ -1,0 +1,304 @@
+/*===== GOOGLE FONTS =====*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+/*===== VARIABLES CSS =====*/
+
+:root{
+  --header-height: 3rem;
+  --font-semi: 600;
+}
+
+/*===== Colores =====*/
+:root{
+  --first-color: #4070F4;
+  --second-color: #0E2431;
+}
+
+/*===== Fuente y tipografia =====*/
+:root{
+  --body-font: 'Poppins', sans-serif;
+  --big-font-size: 2rem;
+  --h2-font-size: 1.25rem;
+  --h3-font-size: 1.15rem;
+  --normal-font-size: 0.938rem;
+}
+@media screen and (min-width: 768px){
+  :root{
+    --big-font-size: 3.5rem;
+    --h2-font-size: 2rem;
+    --h3-font-size: 1.5rem;
+    --normal-font-size: 1rem;
+  }
+}
+/*===== Margenes =====*/
+:root{
+  --mb-1: 0.5rem;
+  --mb-2: 1rem;
+  --mb-3: 1.5rem;
+  --mb-4: 2rem;
+  --mb-5: 2.5rem;
+  --mb-6: 3rem;
+}
+
+/*===== z index =====*/
+:root{
+  --z-back: -10;
+  --z-normal: 1;
+  --z-tooltip: 10;
+  --z-fixed: 100;
+}
+
+/*===== BASE =====*/
+*,::before,::after{
+  box-sizing: border-box;
+}
+html{
+  scroll-behavior: smooth;
+}
+body{
+  font-family: var(--body-font);
+  font-size: var(--normal-font-size);
+  color: var(--second-color);
+}
+h1,h2,p{
+  margin: 0;
+}
+p{
+  font-size: var(--normal-font-size);
+}
+ul{
+  margin: 0;
+  padding: 0;
+  /*list-style: none;*/
+  
+}
+a{
+  text-decoration: none;
+}
+img{
+  max-width: 90%;
+  margin: 0 auto;
+  height: auto;
+  display: block;
+  margin-bottom: var(--mb-6);
+}
+
+/*===== LAYOUT =====*/
+.banner{
+  margin-top: 0;
+  position: relative;
+}
+.bx-x{
+  font-size: 3rem;
+  position: absolute;
+  top: .1rem;
+  right: .1rem;
+}
+
+/*===== INTRODUCION =====*/
+
+.intro-content{
+  display: grid;
+  grid-template-columns: repeat(2, 50%);
+  grid-template-rows: repeat(2, 50%);
+  justify-items: center;
+}
+.intro-item{
+  
+  width: 10rem;
+}
+.intro-title{
+  margin-bottom: var(--mb-1);
+  display: block;
+  font-weight: bold;
+  
+}
+
+/*===== carousel =====*/
+.carousel{
+  margin: 0 auto;
+  margin-top: var(--mb-3);
+  margin-bottom: var(--mb-6);
+  width: 50%;
+
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  outline: black;
+  background-size: 100%, 100%;
+  border-radius: 50%;
+  
+  background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: var(--first-color);
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: var(--first-color);
+}
+
+header{
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 30px;
+
+}
+
+h1{
+  font-size: var(--big-font-size);
+}
+h2{
+  font-size: var(--h2-font-size);
+  margin-bottom: var(--mb-2);
+}
+h3{
+  font-size: var(--h3-font-size);
+  margin-bottom: var(--mb-1);
+}
+
+iframe{
+  margin-bottom: var(--mb-6);
+}
+
+/*=====USABILITY TEST=====*/
+/*
+.lookup{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.lookup-img{
+  margin-right: var(--mb-4);
+}
+
+*/
+li{
+  margin-bottom: var(--mb-1);
+  margin-left: var(--mb-1);
+}
+
+p{
+  margin-bottom: var(--mb-6);
+  font-size: var(--normal-font-size);
+}
+section{
+  width: 90%;
+  margin: 0 auto;
+}
+.reserach-block{
+  font-style: italic;
+  background: lightgrey;
+}
+.findings{
+  margin-bottom: var(--mb-1);
+}
+.margin-1{
+  margin-bottom: var(--mb-1);
+}
+.p-margin{
+   margin-bottom: var(--mb-3);
+}
+.sketchImg{
+  margin-bottom: var(--mb-3);
+}
+.miro, .figma{
+  width: 90%;
+}
+
+.userStudy{
+  background: #fdd848;
+}
+
+ul{
+  margin-bottom: var(--mb-6);
+}
+
+@media screen and (min-width: 768px){
+  body{
+    margin: 0;
+  }
+  p{
+    margin-bottom: var(--mb-6);
+    font-size: var(--normal-font-size);
+  }
+  section{
+  width: 70%;
+  margin: 0 auto;
+  }
+  /*===== Cloes =====*/
+  .bx-x{
+  font-size: 4rem;
+  position: fixed;
+  top: .3rem;
+  right: .3rem;
+  }
+
+  .reserach-block{
+    font-style: italic;
+    background: lightgrey;
+  }
+  .findings{
+    margin-bottom: var(--mb-1);
+  }
+  .margin-1{
+    margin-bottom: var(--mb-1);
+  }
+  .p-margin{
+    margin-bottom: var(--mb-3);
+  }
+  .sketchImg{
+    margin-bottom: var(--mb-3);
+  }
+  .miro, .figma{
+    width: 90%;
+  }
+
+  /*=====USABILITY TEST=====*/
+  .lookup{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  }
+  .lookup-img{
+    margin-right: var(--mb-4);
+  }
+  li{
+    margin-bottom: var(--mb-1);
+  }
+
+  /*=====INTRODUCTION=====*/
+  .intro-content{
+    display: flex;
+    justify-content: space-between;
+  }
+  .intro-item{
+    width: 10rem;
+  }
+
+}
+
+@media screen and (min-width: 1024px){
+  section{
+  width: 50%;
+  margin: 0 auto;
+  }
+
+}
+
+@media screen and (min-width: 1600px){
+  .miro, .figma{
+    width: 90%;
+    height: 450px;
+  }
+
+}

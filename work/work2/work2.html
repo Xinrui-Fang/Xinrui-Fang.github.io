@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Project-GoFishing</title>
+	<!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <!-- =====BOX ICONS===== -->
+    <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
+	<link rel="stylesheet" href="work2Style.css">
+</head>
+<body>
+	<header>
+		<div class="banner">
+				<img class="sketchImg" src="imgs/banner.png" alt="">
+				<a href="../../index.html" class="home__social-icon"><i class='bx bx-x'></i></i></a>
+			</div>
+		<h1 style="margin-bottom: 1rem;">GoFishing</h1>
+		<h2 style="margin-bottom: 3rem;">An Educational AR Fishing Serious Game</h2>
+	</header>
+
+	<main>
+		<section class="introduction">
+			<div class="intro-content">
+				<div class="intro-item">
+					<span class="intro-title">ROLE</span>
+					<p>Team Leader, Developer, UI Designer</p>
+				</div>
+				<div class="intro-item">
+					<span class="intro-title">DURATION</span>
+					<p>Three Months</p>
+				</div>
+				<div class="intro-item">
+					<span class="intro-title">TOOLS</span>
+					<p>Unity, Vuforia, PhotoShop</p>
+				</div>
+				<div class="intro-item">
+					<span class="intro-title">TEAM</span>
+					<p>Cooperated with Shusuke Sato in Mixed Reality Course</p>
+				</div>
+			</div>
+		</section>
+
+		<section>
+			<h2>Introduction</h2>
+			<h3>Resourses | <a href="https://github.com/Xinrui-Fang/Go-Fishing">Github Repository </a></h3>
+			<p class="p-margin">
+				In this project, we proposed a fishing MR application to take fishing lovers immersive fishing experience. Educational purpose is granted also, users can learn fish specie introduction, fishing tricks and tips in this application. Moreover, we designed a complete UI interactive system based on user experience.
+			</p>
+		</section>
+
+		<section>
+			<h2>Background</h2>
+			<p class="p-margin">
+				Fishing is a popular sports in Japan and even all over the world. However, due to current condition, a lot of fishing lovers can not go fishing as usual because of travelling restriction. In order to solve this problem, we proposed this Mixed Reality Fishing application for fishing lovers to use during this special time.
+			</p>
+			<p>
+				Users can enjoy fishing experience at anywhere, 15 different fish models will be generated in the game, and fishing spices knowledge, tricks and tips are introduced in the game. On the one hand, users can get immersive fishing experience in the game, on the other hand, they can get more knowledge about their hobbies.
+			</p>
+		</section>
+
+		<section>
+			<h2>Personas</h2>
+			<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  				<div class="carousel-inner">
+    				<div class="carousel-item active">
+      					<img src="imgs/user figure 1.png" class="d-block w-200" alt="...">
+    				</div>
+    				<div class="carousel-item">
+      					<img src="imgs/user figure 2.png" class="d-block w-200" alt="...">
+    				</div>
+    				<div class="carousel-item">
+      					<img src="imgs/user figure 3.png" class="d-block w-200" alt="...">
+    				</div>
+    				
+    				
+  				</div>
+  				<a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    				<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    				<span class="sr-only">Previous</span>
+  				</a>
+  				<a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    				<span class="carousel-control-next-icon" aria-hidden="true"></span>
+    				<span class="sr-only">Next</span>
+  				</a>
+			</div>
+		</section>
+
+		<section>
+			<h2>Implementation</h2>
+			<p>
+				In this section, I will introduce implementation details below, including physical prototype and AR system.
+			</p>
+
+			<h3>Physical Prototype</h3>
+			<p>
+				For the purpose of granting users immersive fishing experience, we mixed the fishing rod and smartphone together, as shown in Figure 1. Users can place the smart phone horizontally at the smart phone holder on the fishing rod. Simultaneously, cylinder target is implemented as fishing lure. We tried a lot AR target before, cylinder target is the most suitable for this project due to the contribution of rotation non-sensitive. On the contrary, image target is only suitable on the ground plane, and object target can only be tracked at specific angles. Once we install the cylinder target to the fishing rod, fishing reel is facilitated to control the movement of cylinder target. When cylinder target is put down and can be detectable by the camera, the virtual fishing models will be generated on the cylinder target.
+			</p>
+			<div>
+				<img class="sketchImg" src="imgs/prototype.jpg" alt="">
+			</div>
+
+			<h3>Game Design</h3>
+			<p>
+				Default target tracking scripts offered by Vuforia can only generate one object above the target. However, we propose to generate 15 different kinds of fish in our scenarios, so we change default target tracking scripts to satisfy our demand. Two parts of code mainly modified, first part is OnTrackingFound() function, we change the code that let the Vuforia generate a random fish model once the target is tracked. Secondly, we change the content of OnTrackingLost() function, once the target is lost, the fish model game object will be destroyed simultaneously.
+			</p>
+		</section>
+
+		<section>
+			<h2>WireFrame</h2>
+			<div>
+				<img class="sketchImg" src="imgs/wireframe.png" alt="">
+			</div>
+			<div>
+
+					<ul>
+					<li><span class="liTitle">Main Page:</span> There is three button on the main page, when users click ’PLAY’ button, the scene will jump to Vuforia Game page; when users click ’Pamphlet’ button, the scene will switch to pamphlet page; when users click ’QUIT’ button, the game will be quit.</li>
+					<li><span class="liTitle">Pamphlet:</span>  Once one kind of fish is generated in Game Page, the icon of this fish is activated in Pamphlet page, users can click on each fish icon to check their fishing tricks and tips videos. Of course, users can click return button to return to the main page.</li>
+					<li><span class="liTitle">Game Page & Fish Introduction:</span> In the game page, users can use fishing rod prototype and cylinder target to generate different fish models. When target is tracked and fish model is generated, users can click left up fish button to check the introduction of this fish specie. Users can also click right up button to return to the main page.</li>
+					<li><span class="liTitle">Video Player:</span>
+					 Video Player can be activated on pamphlet page, fishing tricks and tips video will be played on this page, user can click ’Play and Pause’ button to pause or start the video, and they can also return back to the pamphlet page with ’Close’ button.
+					</li>
+					</ul>
+				</div>
+				
+		</section>
+		<section>
+			<h2>Release</h2>
+			<p>This serious game can be released across system due to the contribution of Unity, the screenshot of this serious game on Android System is shown as below:</p>
+			<iframe class="miro" width="560" height="340" src="https://www.youtube.com/embed/ac5j_CRw2z0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</section>
+		    
+
+	</main>
+	
+	<!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+</body>
+</html>
