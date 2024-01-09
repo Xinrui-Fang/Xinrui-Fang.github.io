@@ -6,9 +6,7 @@ main:
     conference: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <strong>(IMWUT)</strong>, 2022.
     pdf: https://dl.acm.org/doi/pdf/10.1145/3534576
     video: hhttps://www.youtube.com/watch?v=8bEcGcKM0ZE
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
-    # notes: Early Accept
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
