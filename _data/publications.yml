@@ -9,13 +9,13 @@ main:
     image: ./assets/img/teaser_example_2.png
     # notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+  - title: "Knock Knock: A Children-oriented Vocabulary Learning Tangible User Interaction System"
+    authors: <strong>Xinrui Fang</strong>, Takuro Watanabe, Chengshuo Xia, Arthur Torck
+    conference_short: AHs
+    conference: Proceedings of the Augmented Humans International Conference <strong>(AHs)</strong>, 2022.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3519391.3519403
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
     image: ./assets/img/teaser_example.png
