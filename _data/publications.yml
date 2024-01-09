@@ -6,7 +6,7 @@ main:
     pdf: https://www.sciencedirect.com/science/article/pii/S2405896323001064
     # video: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/teaser_vr.png
 
   - title: "VoLearn: A Cross-Modal Operable Motion-Learning System Combined with Virtual Avatar and Auditory Feedback"
     authors: Chengshuo Xia, <strong>Xinrui Fang</strong>, Riku Arakawa, Yuta Sugiura
@@ -15,7 +15,7 @@ main:
     pdf: https://dl.acm.org/doi/abs/10.1145/3534576
     video: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/teaser_volearn.png
     # notes: Early Accept
 
   - title: "Knock Knock: A Children-oriented Vocabulary Learning Tangible User Interaction System"
@@ -27,7 +27,7 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/teaser_volearn.png
 
   - title: "VoLearn: An Operable Motor Learning System with Auditory Feedback"
     authors: Chengshuo Xia, <strong>Xinrui Fang</strong>, Yuta Sugiura
@@ -40,7 +40,7 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/teaser_knock.png
 
   - title: "FacialPen: Using Facial Detection to Augment Pen-Based Interaction"
     authors: <strong>Xinrui Fang</strong>, Chengshuo Xia, Yuta Sugiura
