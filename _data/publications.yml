@@ -1,4 +1,13 @@
 main:
+  - title: "Light Guidance Control of Human Drivers: Driver Modeling, Control System Design, and VR Experiment"
+    authors: M Takeda, M Inoue, <strong>Xinrui Fang</strong>, Y Minami, JM Maestre
+    conference_short: IFAC-PapersOnLine
+    conference: IFAC-PapersOnLine, 2023.
+    pdf: https://www.sciencedirect.com/science/article/pii/S2405896323001064
+    # video: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+
   - title: "VoLearn: A Cross-Modal Operable Motion-Learning System Combined with Virtual Avatar and Auditory Feedback"
     authors: Chengshuo Xia, <strong>Xinrui Fang</strong>, Riku Arakawa, Yuta Sugiura
     conference_short: IMWUT
@@ -27,6 +36,18 @@ main:
       Adjunct Proceedings of the 34th Annual ACM Symposium on User Interface Software and Technology
       <strong>(UIST Demo)</strong>, 2022.
     pdf: https://dl.acm.org/doi/abs/10.1145/3474349.3480186
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/teaser_example.png
+
+  - title: "FacialPen: Using Facial Detection to Augment Pen-Based Interaction"
+    authors: <strong>Xinrui Fang</strong>, Chengshuo Xia, Yuta Sugiura
+    conference_short: Asian CHI
+    conference: Proceedings of the Asian CHI Symposium 2021
+      <strong>(Asian CHI)</strong>, 2021.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3429360.3467672
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
