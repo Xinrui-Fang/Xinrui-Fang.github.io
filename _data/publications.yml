@@ -27,7 +27,7 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    image: ./assets/img/teaser_volearn.png
+    image: ./assets/img/teaser_knock.png
 
   - title: "VoLearn: An Operable Motor Learning System with Auditory Feedback"
     authors: Chengshuo Xia, <strong>Xinrui Fang</strong>, Yuta Sugiura
@@ -40,7 +40,7 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    image: ./assets/img/teaser_knock.png
+    image: ./assets/img/teaser_volearn.png
 
   - title: "FacialPen: Using Facial Detection to Augment Pen-Based Interaction"
     authors: <strong>Xinrui Fang</strong>, Chengshuo Xia, Yuta Sugiura
