@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Creative Engineer and HCI Researcher working in Tokyo...
+I am a Creative Engineer and HCI Researcher based in Tokyo.
 
 ## Work Interests
 
@@ -14,9 +14,6 @@ I am a Creative Engineer and HCI Researcher working in Tokyo...
 ## News
 
 - **[Jan. 2024]** Working as an application engineer in Rakuten Group Inc. Tokyo.
-<!-- - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
 
 {% include_relative _includes/publications.md %}
 
