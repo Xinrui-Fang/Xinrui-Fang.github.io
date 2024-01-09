@@ -4,19 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Creative Engineer and HCI Researcher working in Tokyo...
 
-## Research Interests
+## Work Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Human Computer Interaction:** Human-AI Interaction, User Interface
+- **Fullstack Engineer:** React.js, Next.js, PHP, Java
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
+- **[Jan. 2024]** Working as an application engineer in Rakuten Group Inc. Tokyo.
+<!-- - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
 
 {% include_relative _includes/publications.md %}
 
