@@ -2,7 +2,7 @@ main:
   - title: "Light Guidance Control of Human Drivers: Driver Modeling, Control System Design, and VR Experiment"
     authors: M Takeda, M Inoue, <strong>Xinrui Fang</strong>, Y Minami, JM Maestre
     conference_short: IFAC-PapersOnLine
-    conference: IFAC-PapersOnLine, 2023.
+    conference: 4th IFAC Workshop on Cyber-Physical and Human Systems CPHS, 2022.
     pdf: https://www.sciencedirect.com/science/article/pii/S2405896323001064
     # video: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
