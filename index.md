@@ -19,12 +19,11 @@ My passion is to combine my engineering skills and design smell to create COOL t
 - **[2022.03]** Got the master degree from Keio University.
 
 <details>
-<summary><b>Preview title</b></summary>
+<summary><b>Preview News</b></summary>
 
-_Markdown is valid, but add empty lines to separate from the HTML tags._
-
-- Bullet
-- Points
+- **[2022.08]** Volearn is accepted to IMWUT'22.
+- **[2022.04]** Joined Rakuten Group Inc as an application engineer.
+- **[2022.03]** Got the master degree from Keio University.
 
 </details>
 
