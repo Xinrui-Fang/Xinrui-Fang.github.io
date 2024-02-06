@@ -14,11 +14,11 @@ My passion is to combine my engineering skills and design smell to create COOL t
 
 ## News
 
-- **[2022.08]** Volearn is accepted to IMWUT'22.
-- **[2022.04]** Joined Rakuten Group Inc as an application engineer.
-- **[2022.03]** Received my master degree from Keio University.
-- **[2022.02]** Knock Knock is accepted to AHs'22.
-- **[2021.11]** Knock Knock won 2nd place of Sony SPRESENSE Hackathon.
+- **[2022.Aug]** Volearn is accepted to IMWUT'22.
+- **[2022.Apr]** Joined Rakuten Group Inc as an application engineer.
+- **[2022.Mar]** Received my master degree from Keio University.
+- **[2022.Feb]** Knock Knock is accepted to AHs'22.
+- **[2021.Nov]** Knock Knock won 2nd place of Sony SPRESENSE Hackathon.
 
 {% include_relative _includes/publications.md %}
 
