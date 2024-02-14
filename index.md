@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Creative Engineer and HCI Researcher based in Tokyo.
+I am an Application Engineer and HCI Researcher based in Tokyo.
 My passion is to combine my engineering skills and design smell to create COOL things.
 
 ## Research Interests
