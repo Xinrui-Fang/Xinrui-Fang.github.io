@@ -10,7 +10,6 @@ My passion is to combine my engineering skills and design smell to create COOL t
 ## Research Interests
 
 - **Human Computer Interaction:** Human-AI Interaction, User Interface
-- **Fullstack Engineer:** React.js, Next.js, Node.js, Docker, PHP, Java, GCP
 
 ## News
 
