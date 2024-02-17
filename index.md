@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am an Application Engineer and HCI Researcher based in Tokyo.
-My passion is to combine my engineering skills and design smell to create COOL things.
+My passion is to combine my engineering skills and design smell to create COOL stuffs.
 
 ## Research Interests
 
@@ -18,7 +18,9 @@ My passion is to combine my engineering skills and design smell to create COOL t
 - **[2022.Mar]** Received my master degree from Keio University.
 - **[2022.Feb]** Knock Knock is accepted to AHs'22.
 - **[2021.Nov]** Knock Knock won 2nd place of Sony SPRESENSE Hackathon.
-
+<ul>
+<li><strong>[Jan. 2024]</strong> Our paper about <a href="https://arxiv.org/pdf/2306.08103.pdf">diffusion models</a> is accepted to <a href="https://iclr.cc/Conferences/2024/">ICLR 2024</a>.</li>
+</ul>
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
