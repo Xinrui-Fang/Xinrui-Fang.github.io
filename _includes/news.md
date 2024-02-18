@@ -3,7 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Aug. 2022]</strong> Our paper about motion learing system</a> is accepted to <a href="">Ubicomp IMWUT 2022</a>.</li>
+<li><strong>[Aug. 2022]</strong> Our paper about motion learing system is accepted to <a href="">Ubicomp IMWUT 2022</a>.</li>
 
 <li><strong>[Apr. 2022]</strong> Joined Rakuten Group Inc as an application engineer.</li>
 
