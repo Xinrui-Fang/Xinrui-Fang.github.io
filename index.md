@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am an upcoming PhD Student in HCI field based in Tokyo.
-My passion is to combine my engineering skills and design smell to create COOL stuffs.
+My passion is to combine my engineering skills and design smell to create COOL stuffs. Previously I was working in the [Rakuten Group Inc](https://global.rakuten.com/corp/). as an Application Engineer for 2 years. Before that, I got my master degree from Keio University under the supervision of [Dr.Yuta Sugiura](https://lclab.org/people/yutasugiura), and got my bachelar degree from the Dalian University of Technology. I also collabroted with [Dr.Can Liu](https://www.scm.cityu.edu.hk/people/liu-can) as a research intern during 2021 summer.
 
 ## Research Interests
 
