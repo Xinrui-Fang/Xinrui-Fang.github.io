@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an Application Engineer and HCI Researcher based in Tokyo.
+I am an upcoming PhD Student in HCI field based in Tokyo.
 My passion is to combine my engineering skills and design smell to create COOL stuffs.
 
 ## Research Interests
