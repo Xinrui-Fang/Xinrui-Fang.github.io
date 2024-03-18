@@ -9,10 +9,9 @@
   
   <li><strong>[Apr. 2022]</strong> Joined Rakuten Group Inc as an application engineer.</li>
 
-  <li><strong>[Mar. 2022]</strong> Received my master degree from the <a href="https://www.keio.ac.jp/en/">Keio University</a>.</li>
-
   <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 <div id="newsmore" style="display:none">
+<li><strong>[Mar. 2022]</strong> Received my master degree from the <a href="https://www.keio.ac.jp/en/">Keio University</a>.</li>
 
   <li><strong>[Feb. 2022]</strong> "Knock Knock" is accepted to <a href="https://2022.augmented-humans.org/calls-for-participation/">Augmented Humans 2022</a>.</li>
 
