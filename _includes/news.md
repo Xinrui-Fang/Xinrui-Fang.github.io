@@ -3,7 +3,8 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-  <li><strong>[Mar. 2024]</strong> I will join The UTokyo for my PhD study since April.</li>
+  <li><strong>[Mar. 2024]</strong> Selected for the SPRING GX Research Fellowship.</li>
+  <li><strong>[Mar. 2024]</strong> I will join the UTokyo for my PhD study since April.</li>
   <li><strong>[Aug. 2022]</strong> "Volearn" is accepted to <a href="https://ubicomp.org/ubicomp2022/">Ubicomp IMWUT 2022</a>.</li>
   
   <li><strong>[Apr. 2022]</strong> Joined Rakuten Group Inc as an application engineer.</li>
