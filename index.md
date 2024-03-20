@@ -13,7 +13,7 @@ I like making coffee ,workout and playing digital games in my leisure time. Rece
 
 ## Research Interests
 
-- **Human Computer Interaction:** Human-AI Interaction, User Interface
+- **HCI:** Human-AI Interaction, User Interface
 
 {% include_relative _includes/news.md %}
 
