@@ -9,7 +9,7 @@ My passion is to combine my engineering skills and design smell to create COOL s
 
 ---
 
-I like making coffee and playing digital games.
+I like making coffee ,workout and playing digital games in my leisure time. Recently, I am playing [HELLDIVERS 2](https://www.playstation.com/ja-jp/games/helldivers-2/) on PS5. Ping me, let's kill the bugs together.
 
 ## Research Interests
 
