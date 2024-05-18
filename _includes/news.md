@@ -3,15 +3,16 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+  <li><strong>[Apr. 2024]</strong> Joined IIS Lab, UTokyo to start my PhD life.</li>
   <li><strong>[Mar. 2024]</strong> Selected for the SPRING GX Research Fellowship.</li>
   <li><strong>[Mar. 2024]</strong> I will join the UTokyo for my PhD study since April.</li>
   <li><strong>[Aug. 2022]</strong> "Volearn" is accepted to <a href="https://ubicomp.org/ubicomp2022/">Ubicomp IMWUT 2022</a>.</li>
-  
-  <li><strong>[Apr. 2022]</strong> Joined Rakuten Group Inc as an application engineer.</li>
 
   <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
-<div id="newsmore" style="display:none">
-<li><strong>[Mar. 2022]</strong> Received my master degree from the <a href="https://www.keio.ac.jp/en/">Keio University</a>.</li>
+<div id="newsmore" style="display:none">  
+  <li><strong>[Apr. 2022]</strong> Joined Rakuten Group Inc as an application engineer.</li>
+
+  <li><strong>[Mar. 2022]</strong> Received my master degree from the <a href="https://www.keio.ac.jp/en/">Keio University</a>.</li>
 
   <li><strong>[Feb. 2022]</strong> "Knock Knock" is accepted to <a href="https://2022.augmented-humans.org/calls-for-participation/">Augmented Humans 2022</a>.</li>
 
