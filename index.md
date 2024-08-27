@@ -9,7 +9,7 @@ My passion is to combine my engineering skills and design smell to create COOL s
 
 ---
 
-I like making coffee ,workout and playing digital games in my leisure time. Recently, I am playing [HELLDIVERS 2](https://www.playstation.com/ja-jp/games/helldivers-2/) on PS5.
+I like making coffee ,workout and playing digital games in my leisure time. Recently, I am playing [Back Myth: Wukong](https://www.playstation.com/en-us/games/black-myth-wukong/) on PS5.
 
 ## Research Interests
 
