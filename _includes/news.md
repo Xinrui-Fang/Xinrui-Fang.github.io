@@ -3,6 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+  <li><strong>[Nov. 2024]</strong> I visited and gave a talk at <a href="https://users.aalto.fi/~oulasvir/">Computational Behavior Lab</a> at Aalto University and Multimodality Research Group at Helsinki University.</li>
   <li><strong>[Apr. 2024]</strong> Joined IIS Lab, UTokyo to start my PhD life.</li>
   <li><strong>[Mar. 2024]</strong> Selected for the SPRING GX Research Fellowship.</li>
   <li><strong>[Mar. 2024]</strong> I will join the UTokyo for my PhD study since April.</li>
