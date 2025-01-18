@@ -9,7 +9,7 @@ My passion is to combine my engineering skills and design smell to create COOL s
 
 ---
 
-I like making coffee ,workout and playing digital games in my leisure time. Recently, I am playing [Back Myth: Wukong](https://www.playstation.com/en-us/games/black-myth-wukong/) on PS5.
+I like making coffee ,workout and playing digital games in my leisure time. Recently, I am playing [ELDEN RING](https://www.playstation.com/ja-jp/games/elden-ring/) on PS5.
 
 ## Research Interests
 
