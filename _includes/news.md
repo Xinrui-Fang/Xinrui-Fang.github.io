@@ -7,10 +7,11 @@
   <li><strong>[Nov. 2024]</strong> I visited and gave talks at <a href="https://users.aalto.fi/~oulasvir/">Computational Behavior Lab</a> at Aalto University; <a href="https://www.helsinki.fi/en/researchgroups/digital-geography-lab"> Multimodality Research Group</a> at Helsinki University; and <a href="https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-for-ubiquitous-computing">Ubiquitous Computing Center</a> at Oulu University. I appreciate the warm welcomes.</li> 
   <li><strong>[Apr. 2024]</strong> Joined IIS Lab, UTokyo to start my PhD life.</li>
   <li><strong>[Mar. 2024]</strong> Selected for the SPRING GX Research Fellowship.</li>
-  <li><strong>[Mar. 2024]</strong> I will join the UTokyo for my PhD study since April.</li>
+
 
   <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 <div id="newsmore" style="display:none">  
+<li><strong>[Mar. 2024]</strong> I will join the UTokyo for my PhD study since April.</li>
 <li><strong>[Aug. 2022]</strong> "Volearn" is accepted to <a href="https://ubicomp.org/ubicomp2022/">Ubicomp IMWUT 2022</a>.</li>
   <li><strong>[Apr. 2022]</strong> Joined Rakuten Group Inc as an application engineer.</li>
 
