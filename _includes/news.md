@@ -3,6 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+  <li><strong>[Jan. 2025]</strong> I will collaborate to organize the Meta-HCI: First Workshop on Meta-Research in HCI in CHI 2025.</li>
   <li><strong>[Nov. 2024]</strong> I visited and gave talks at <a href="https://users.aalto.fi/~oulasvir/">Computational Behavior Lab</a> at Aalto University; <a href="https://www.helsinki.fi/en/researchgroups/digital-geography-lab"> Multimodality Research Group</a> at Helsinki University; and <a href="https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-for-ubiquitous-computing">Ubiquitous Computing Center</a> at Oulu University. I appreciate the warm welcomes.</li> 
   <li><strong>[Apr. 2024]</strong> Joined IIS Lab, UTokyo to start my PhD life.</li>
   <li><strong>[Mar. 2024]</strong> Selected for the SPRING GX Research Fellowship.</li>
