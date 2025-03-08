@@ -9,7 +9,7 @@ My passion is to combine my engineering skills and design smell to create Critic
 
 ---
 
-I like making coffee ,workout and playing digital games in my leisure time. Recently, I am playing [ELDEN RING](https://www.playstation.com/ja-jp/games/elden-ring/) on PS5.
+I like making coffee ,workout and playing digital games in my leisure time. Recently, I am playing [Cyberpunk 2077](https://www.playstation.com/ja-jp/games/cyberpunk-2077/) on PS5.
 
 ## Research Interests
 
