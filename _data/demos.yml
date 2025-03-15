@@ -12,7 +12,7 @@ main:
 
   - title: "VoLearn: An Operable Motor Learning System with Auditory Feedback"
     authors: Chengshuo Xia, <strong>Xinrui Fang</strong>, Yuta Sugiura
-    conference_short: UIST EA '22'
+    conference_short: UIST EA '22
     conference:
       Adjunct Proceedings of the 34th Annual ACM Symposium on User Interface Software and Technology
       <strong>(UIST Demo)</strong>, 2022.
