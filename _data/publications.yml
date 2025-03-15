@@ -29,19 +29,6 @@ main:
     # notes: Oral Presentation
     image: ./assets/img/teaser_knock.png
 
-  - title: "VoLearn: An Operable Motor Learning System with Auditory Feedback"
-    authors: Chengshuo Xia, <strong>Xinrui Fang</strong>, Yuta Sugiura
-    conference_short: UIST (Demo)
-    conference:
-      Adjunct Proceedings of the 34th Annual ACM Symposium on User Interface Software and Technology
-      <strong>(UIST Demo)</strong>, 2022.
-    pdf: https://dl.acm.org/doi/abs/10.1145/3474349.3480186
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: Oral Presentation
-    image: ./assets/img/teaser_volearn.png
-
   - title: "FacialPen: Using Facial Detection to Augment Pen-Based Interaction"
     authors: <strong>Xinrui Fang</strong>, Chengshuo Xia, Yuta Sugiura
     conference_short: Asian CHI
