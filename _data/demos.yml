@@ -2,7 +2,7 @@ main:
   - title: "Exploring Practices, Challenges, and Design Implications for Citation Foraging, Management, and Synthesis"
     authors: <strong>Xinrui Fang</strong>, Anran Xu, Sylvain Malacria, Koji Yatani
     conference_short: CHI EA ’25
-    conference: In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA ’25)
+    conference: In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA ’25), 2025.
     pdf: https://doi.org/10.1145/3706599.3719883
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
