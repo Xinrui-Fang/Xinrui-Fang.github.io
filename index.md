@@ -9,11 +9,11 @@ My passion is to design critical AI tools that foster human's science communicat
 
 ---
 
-I like making coffee ,workout and playing console games in my leisure time. Recently, I am playing [Cyberpunk 2077](https://www.playstation.com/ja-jp/games/cyberpunk-2077/) on PS5.
+I like making coffee ,workout and playing console games in my leisure time. Recently, I am playing [Clair Obscur: Expedition 33](https://expedition33.sega.jp/) on PS5.
 
 ## Research Interests
 
-- **Human Computer Interaction:** Human-AI Interaction, Critical AI
+- **Human Computer Interaction:** Human-AI Interaction, AI4Science, Meta Research in HCI
 
 {% include_relative _includes/news.md %}
 
