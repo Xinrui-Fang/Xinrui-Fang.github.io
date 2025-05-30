@@ -19,6 +19,6 @@ I like making coffee ,workout and playing console games in my leisure time. Rece
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/demos.md %}
+<!-- {% include_relative _includes/demos.md %} -->
 
 {% include_relative _includes/services.md %}
