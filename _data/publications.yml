@@ -1,4 +1,27 @@
 main:
+
+  - title: "Exploring Practices, Challenges, and Design Implications for Citation Foraging, Management, and Synthesis"
+    authors: <strong>Xinrui Fang</strong>, Anran Xu, Sylvain Malacria, Koji Yatani
+    conference_short: CHI EA ’25 LBW
+    conference: In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA ’25), 2025.
+    pdf: https://doi.org/10.1145/3706599.3719883
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/teaser_citation.png
+
+  - title: "Meta-HCI: First Workshop on Meta-Research in HCI"
+    authors: Jonas Oppenlaender, Sylvain Malacria, <strong>Xinrui Fang</strong>, Niels van Berkel, Fanny Chevalier, Koji Yatani, Simo Hosio
+    conference_short: CHI EA ’25 Workshop
+    conference: In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA ’25), 2025.
+    pdf: https://doi.org/10.1145/3706599.3706723
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/teaser_meta.png
+
   - title: "Light Guidance Control of Human Drivers: Driver Modeling, Control System Design, and VR Experiment"
     authors: M Takeda, M Inoue, <strong>Xinrui Fang</strong>, Y Minami, JM Maestre
     conference_short: IFAC-PapersOnLine
@@ -17,6 +40,7 @@ main:
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_volearn.png
     # notes: Early Accept
+  
 
   - title: "Knock Knock: A Children-oriented Vocabulary Learning Tangible User Interaction System"
     authors: <strong>Xinrui Fang</strong>, Takuro Watanabe, Chengshuo Xia, Arthur Torck
@@ -40,3 +64,18 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     image: ./assets/img/teaser_facialPen.png
+
+
+  - title: "VoLearn: An Operable Motor Learning System with Auditory Feedback"
+    authors: Chengshuo Xia, <strong>Xinrui Fang</strong>, Yuta Sugiura
+    conference_short: UIST EA '21 Demo
+    conference:
+      Adjunct Proceedings of the 34th Annual ACM Symposium on User Interface Software and Technology
+      <strong>(UIST Demo)</strong>, 2022.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3474349.3480186
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/teaser_volearn.png
+
