@@ -9,7 +9,7 @@ My passion is to design critical AI tools that foster human's science communicat
 
 ---
 
-I like making coffee ,workout and playing console games in my leisure time. Recently, I am playing [Clair Obscur: Expedition 33](https://expedition33.sega.jp/) on PS5.
+I like making coffee ,workout and playing console games in my leisure time. Recently, I am playing [Death Stranding 2](https://www.kojimaproductions.jp/en/death-stranding-2) on PS5. On my days off, I have Sam delivering supplies 📦 all over the place.
 
 ## Research Interests
 
