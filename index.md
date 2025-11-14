@@ -9,7 +9,7 @@ My passion is to design critical AI tools that foster human's science communicat
 
 ---
 
-I like making coffee ,workout and playing console games in my leisure time. Recently, I am playing [Death Stranding 2](https://www.kojimaproductions.jp/en/death-stranding-2) on PS5. On my days off, I have Sam delivering supplies 📦 all over the place.
+I like making coffee ,workout and playing console games in my leisure time. Recently, I am playing [Battlefield 6](https://store.playstation.com/ja-jp/product/UP0006-PPSA19534_00-SANTIAGOSTANDARD) on PS5. 
 
 ## Research Interests
 
