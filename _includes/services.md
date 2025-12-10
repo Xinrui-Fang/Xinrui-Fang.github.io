@@ -3,7 +3,9 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>The ACM Conference on Human Factors in Computing Systems (CHI LBW) 2022, 2025</autocolor></a></li>
+ <li><a href="https://ieeevr.org/2026/"><autocolor>IEEE VR, 2026</autocolor></a></li>
+  <li><a href="https://chi2025.acm.org/"><autocolor>ACM CHI LBW, 2025</autocolor></a></li>
+   <li><a href="https://chi2022.acm.org/"><autocolor>ACM CHI LBW, 2022</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Student Volunteer</h4>
