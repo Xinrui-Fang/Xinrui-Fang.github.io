@@ -3,7 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-  <li><strong>[Dec. 2025]</strong> One paper has been conditionally accepted to ACM IUI 2026.
+  <li><strong>[Dec. 2025]</strong> One first-authored paper has been conditionally accepted to ACM IUI 2026.
 </li>
   <li><strong>[Apr. 2025]</strong> First time attending CHI in person, had a great time co-hosting the Meta-HCI workshop. The After Party was a blast!
 </li>
@@ -12,7 +12,7 @@
  
   <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 <div id="newsmore" style="display:none">  
-  <li><strong>[Nov. 2024]</strong> I visited and gave talks at <a href="https://users.aalto.fi/~oulasvir/">Computational Behavior Lab</a> at Aalto University; <a href="https://www.helsinki.fi/en/researchgroups/digital-geography-lab"> Multimodality Research Group</a> at Helsinki University; and <a href="https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-for-ubiquitous-computing">Ubiquitous Computing Center</a> at Oulu University. I appreciate the warm welcomes.</li> 
+  <li><strong>[Nov. 2024]</strong> I visited and gave talks at <a href="https://users.aalto.fi/~oulasvir/">Computational Behavior Lab</a> at Aalto University; <a href="https://www.helsinki.fi/en/researchgroups/digital-geography-lab"> Multimodality Research Group</a> at Helsinki University; and <a href="https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-for-ubiquitous-computing">Ubiquitous Computing Center</a> at Oulu University. Appreciate the warm welcomes!</li> 
  <li><strong>[Apr. 2024]</strong> Joined IIS Lab, UTokyo to start my PhD life.</li>
 <li><strong>[Mar. 2024]</strong> Selected for the SPRING GX Research Fellowship.</li>
 <li><strong>[Mar. 2024]</strong> I will join the UTokyo for my PhD study since April.</li>
