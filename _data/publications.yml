@@ -22,8 +22,6 @@ main:
     # notes: Oral Presentation
     image: ./assets/img/teaser_meta.png
 
----
-
   - title: "Light Guidance Control of Human Drivers: Driver Modeling, Control System Design, and VR Experiment"
     authors: M Takeda, M Inoue, <strong>Xinrui Fang</strong>, Y Minami, JM Maestre
     conference_short: CPHS
