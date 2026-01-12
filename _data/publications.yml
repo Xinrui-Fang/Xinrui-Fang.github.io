@@ -1,7 +1,7 @@
 main:
   - title: "LLM-based In-situ Thought Exchanges for Critical Paper Reading"
     authors: <strong>Xinrui Fang</strong>, Anran Xu, Chi-Lan Yang, Ya-Fang Lin, Sylvain Malacria, Koji Yatani
-    conference_short: IUI
+    conference_short: IUI 2026
     conference: To appear in  ACM Conference on Intelligent User Interfaces (ACM IUI) 2026.
     pdf: https://arxiv.org/abs/2510.15234
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
@@ -12,7 +12,7 @@ main:
 
   - title: "Exploring Practices, Challenges, and Design Implications for Citation Foraging, Management, and Synthesis"
     authors: <strong>Xinrui Fang</strong>, Anran Xu, Sylvain Malacria, Koji Yatani
-    conference_short: CHI EA 
+    conference_short: CHI 2025 EA 
     conference: In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA ’25), 2025.
     pdf: https://doi.org/10.1145/3706599.3719883
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
@@ -23,7 +23,7 @@ main:
 
   - title: "Meta-HCI: First Workshop on Meta-Research in HCI"
     authors: Jonas Oppenlaender, Sylvain Malacria, <strong>Xinrui Fang</strong>, Niels van Berkel, Fanny Chevalier, Koji Yatani, Simo Hosio
-    conference_short: CHI EA 
+    conference_short: CHI 2025 EA 
     conference: In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA ’25), 2025.
     pdf: https://doi.org/10.1145/3706599.3706723
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
@@ -43,7 +43,7 @@ main:
 
   - title: "VoLearn: A Cross-Modal Operable Motion-Learning System Combined with Virtual Avatar and Auditory Feedback"
     authors: Chengshuo Xia, <strong>Xinrui Fang</strong>, Riku Arakawa, Yuta Sugiura
-    conference_short: IMWUT
+    conference_short: IMWUT 2022
     conference: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <strong>(IMWUT)</strong>, 2022.
     pdf: https://dl.acm.org/doi/abs/10.1145/3534576
     video: https://github.com/MrGiovanni/ContinualLearning
@@ -54,7 +54,7 @@ main:
 
   - title: "Knock Knock: A Children-oriented Vocabulary Learning Tangible User Interaction System"
     authors: <strong>Xinrui Fang</strong>, Takuro Watanabe, Chengshuo Xia, Arthur Torck
-    conference_short: AHs
+    conference_short: AHs 2022
     conference: Proceedings of the Augmented Humans International Conference <strong>(AHs)</strong>, 2022.
     pdf: https://dl.acm.org/doi/abs/10.1145/3519391.3519403
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
@@ -65,7 +65,7 @@ main:
 
   - title: "FacialPen: Using Facial Detection to Augment Pen-Based Interaction"
     authors: <strong>Xinrui Fang</strong>, Chengshuo Xia, Yuta Sugiura
-    conference_short: Asian CHI
+    conference_short: Asian CHI 2021
     conference: Proceedings of the Asian CHI Symposium 2021
       <strong>(Asian CHI)</strong>, 2021.
     pdf: https://dl.acm.org/doi/abs/10.1145/3429360.3467672
@@ -78,7 +78,7 @@ main:
 
   - title: "VoLearn: An Operable Motor Learning System with Auditory Feedback"
     authors: Chengshuo Xia, <strong>Xinrui Fang</strong>, Yuta Sugiura
-    conference_short: UIST EA 
+    conference_short: UIST 2021 EA 
     conference:
       Adjunct Proceedings of the 34th Annual ACM Symposium on User Interface Software and Technology
       <strong>(UIST Demo)</strong>, 2022.
