@@ -1,6 +1,6 @@
 ## Services
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">External Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
  <li><a href="https://ieeevr.org/2026/"><autocolor>IEEE VR, 2026</autocolor></a></li>
