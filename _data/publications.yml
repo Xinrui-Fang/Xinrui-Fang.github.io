@@ -30,10 +30,8 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    image: ./assets/img/teaser_meta.png
+    image: ./assets/img/teaser_meta.png <hr>
 
-  - title: "___"
-  
   - title: "Light Guidance Control of Human Drivers: Driver Modeling, Control System Design, and VR Experiment"
     authors: M Takeda, M Inoue, <strong>Xinrui Fang</strong>, Y Minami, JM Maestre
     conference_short: CPHS
