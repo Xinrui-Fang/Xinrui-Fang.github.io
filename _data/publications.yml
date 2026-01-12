@@ -1,4 +1,14 @@
 main:
+  - title: "LLM-based In-situ Thought Exchanges for Critical Paper Reading"
+    authors: <strong>Xinrui Fang</strong>, Anran Xu, Chi-Lan Yang, Ya-Fang Lin, Sylvain Malacria, Koji Yatani
+    conference_short: IUI
+    conference: To appear in  ACM Conference on Intelligent User Interfaces (ACM IUI) 2026.
+    pdf: https://doi.org/10.1145/3706599.3706723
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/teaser_IUI26.png
 
   - title: "Exploring Practices, Challenges, and Design Implications for Citation Foraging, Management, and Synthesis"
     authors: <strong>Xinrui Fang</strong>, Anran Xu, Sylvain Malacria, Koji Yatani
