@@ -3,16 +3,19 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Dec. 2025]</strong> Honored to receive the JSPS DC2 Research Fellowship (Japan Society for the Promotion of Science Research Fellowship for Young Scientists)!.
+<li><strong>[Jan. 2026]</strong> I presented “A Critical Reading System with LLMs” at the domestic conference <a href="https://www.sighci.jp/events/sig/216">HCI研究会 216</a>.
+</li>
+<li><strong>[Dec. 2025]</strong> Honored to receive the JSPS DC2 Research Fellowship (Japan Society for the Promotion of Science Research Fellowship for Young Scientists)!
 </li>
   <li><strong>[Dec. 2025]</strong> One first-authored paper has been conditionally accepted to ACM IUI 2026.
 </li>
   <li><strong>[Apr. 2025]</strong> First time attending CHI in person, had a great time co-hosting the Meta-HCI workshop. The After Party was a blast!
 </li>
-  <li><strong>[Feb. 2025]</strong> One first-authored paper is accepted to CHI Late Breaking Work 2025.</li>
+  
  
   <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 <div id="newsmore" style="display:none">  
+ <li><strong>[Feb. 2025]</strong> One first-authored paper is accepted to CHI Late Breaking Work 2025.</li>
  <li><strong>[Jan. 2025]</strong> I will collaborate to organize the Meta-HCI: First Workshop on Meta-Research in HCI in CHI 2025.</li>
   <li><strong>[Nov. 2024]</strong> I visited and gave talks at <a href="https://users.aalto.fi/~oulasvir/">Computational Behavior Lab</a> at Aalto University; <a href="https://www.helsinki.fi/en/researchgroups/digital-geography-lab"> Multimodality Research Group</a> at Helsinki University; and <a href="https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-for-ubiquitous-computing">Ubiquitous Computing Center</a> at Oulu University. Appreciate the warm welcomes!</li> 
  <li><strong>[Apr. 2024]</strong> Joined IIS Lab, UTokyo to start my PhD life.</li>
