@@ -13,7 +13,7 @@ I like making coffee ,workout and playing console games in my leisure time. Rece
 
 ## Research Interests
 
-- **Human Computer Interaction:** Human–AI Interaction and AI for Science, focusing on how AI can be designed to foster human critical thinking and positively support mental well-being.
+**Human Computer Interaction:** Human–AI Interaction and AI for Science, focusing on how AI can be designed to foster human critical thinking and positively support mental well-being.
 
 {% include_relative _includes/news.md %}
 
