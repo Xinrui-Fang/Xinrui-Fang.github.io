@@ -9,7 +9,7 @@ My passion is to design critical AI tools that foster human's science communicat
 
 ---
 
-I like making coffee ,workout and playing console games in my leisure time. Recently, I am playing [Battlefield 6](https://store.playstation.com/ja-jp/product/UP0006-PPSA19534_00-SANTIAGOSTANDARD) on PS5. 
+I like making coffee ,workout and playing console games in my leisure time. I am also a collector of  怪獣ソフビ (kaijū sofubi). Recently, I am playing [Battlefield 6](https://store.playstation.com/ja-jp/product/UP0006-PPSA19534_00-SANTIAGOSTANDARD) on PS5. 
 
 ## Research Interests
 
