@@ -3,7 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Feb. 2026]</strong> I will collaborate to organize the workshop <em>Beyond Cognitive Offloading: Conversational AI for Personal Growth</em> in AHs 2026.</a>.
+<li><strong>[Feb. 2026]</strong> I will collaborate to organize the workshop <em>Beyond Cognitive Offloading: Conversational AI for Personal Growth</em> in AHs 2026.</li>.
 <li><strong>[Jan. 2026]</strong> I presented “Designing An LLM-based Interactive System to Support Critical Paper Reading” at the domestic conference <a href="https://www.sighci.jp/events/sig/216">HCI研究会 216</a>.
 </li>
 <li><strong>[Dec. 2025]</strong> Honored to receive the JSPS DC2 Research Fellowship (Japan Society for the Promotion of Science Research Fellowship for Young Scientists)!
