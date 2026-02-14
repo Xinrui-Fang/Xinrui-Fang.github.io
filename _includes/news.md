@@ -3,12 +3,12 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Feb. 2026]</strong> I will collaborate to organize the workshop ``<em>Beyond Cognitive Offloading: Conversational AI for Personal Growth</em>'' in AHs 2026.</li>
-<li><strong>[Jan. 2026]</strong> I presented ``<em>Designing An LLM-based Interactive System to Support Critical Paper Reading</em>'' at the domestic conference <a href="https://www.sighci.jp/events/sig/216">HCI研究会 216</a>.
+<li><strong>[Feb. 2026]</strong> I will collaborate to organize the workshop "<em>Beyond Cognitive Offloading: Conversational AI for Personal Growth</em>" in <a href="https://augmented-humans.org/">AHs 2026</a>.</li>
+<li><strong>[Jan. 2026]</strong> I presented "<em>Designing An LLM-based Interactive System to Support Critical Paper Reading</em>" at the domestic conference <a href="https://www.sighci.jp/events/sig/216">HCI研究会 216</a>.
 </li>
 <li><strong>[Dec. 2025]</strong> Honored to receive the JSPS DC2 Research Fellowship (Japan Society for the Promotion of Science Research Fellowship for Young Scientists)!
 </li>
-  <li><strong>[Dec. 2025]</strong> One first-authored paper has been conditionally accepted to ACM IUI 2026.
+  <li><strong>[Dec. 2025]</strong> One first-authored paper has been conditionally accepted to <a href="https://iui.acm.org/2026/">ACM IUI 2026</a>.
 </li>
   
   
