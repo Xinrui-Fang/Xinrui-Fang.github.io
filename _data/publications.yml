@@ -4,8 +4,8 @@ main:
     conference_short: IUI 2026
     conference: To appear in  ACM Conference on Intelligent User Interfaces (ACM IUI) 2026.
     pdf: https://arxiv.org/pdf/2510.15234
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://xinrui.design/InSituThoughts.github.io/
+    code: https://github.com/Xinrui-Fang/InSituCPR/tree/main
+    page: https://xinrui.design/InSituCPR/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     image: ./assets/img/teaser_IUI26.png
