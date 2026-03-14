@@ -112,6 +112,12 @@ export function PublicationItem({ p }: { p: Publication }) {
         </span>
         <br />
         <em className="text-[#666]">{p.venueDetail}</em>
+        {p.award && (
+          <>
+            <br />
+            <span className="font-sans text-sm text-amber-800">🏆 {p.award}</span>
+          </>
+        )}
       </p>
       {p.links && (
         <p className="mt-2 text-sm text-[#666]">

@@ -10,6 +10,7 @@ export type Publication = {
   venueDetail: string;
   links?: { label: string; url: string }[];
   teaserImage?: string;
+  award?: string;
 };
 
 export const news: NewsItem[] = [
@@ -157,6 +158,7 @@ export const publications: Publication[] = [
     authors: "Xinrui Fang, Takuro Watanabe, Chengshuo Xia, Arthur Torck",
     venueDetail: "Proceedings of the Augmented Humans International Conference (AHs), 2022.",
     links: [{ label: "PDF", url: "#" }],
+    award: "Sony Sensing Solution Hackathon: Outstanding Award",
   },
   {
     venue: "Asian CHI 2021",

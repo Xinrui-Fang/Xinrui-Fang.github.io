@@ -24,7 +24,7 @@ export default function Home() {
       </nav>
 
       <main id="main">
-      <header className="mb-20 flex flex-col sm:flex-row sm:items-start gap-6 items-start">
+      <header className="mb-20 flex flex-col items-center gap-6 sm:flex-row sm:items-start">
         <div className="shrink-0">
           <Image
             src="/avatar.png"
@@ -36,7 +36,7 @@ export default function Home() {
             unoptimized
           />
         </div>
-        <div className="min-w-0 flex-1">
+        <div className="min-w-0 flex-1 text-center sm:text-left">
         <h1 className="font-sans text-2xl font-semibold tracking-tight mb-2">
           Xinrui Fang
         </h1>
