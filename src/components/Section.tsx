@@ -98,7 +98,18 @@ export function PublicationItem({ p }: { p: Publication }) {
           titleEl
         )}
         <br />
-        <span>{p.authors}</span>
+        <span>
+          {p.authors.split(", ").map((author, i) => (
+            <span key={i}>
+              {i > 0 && ", "}
+              {author.trim() === "Xinrui Fang" ? (
+                <strong>Xinrui Fang</strong>
+              ) : (
+                author
+              )}
+            </span>
+          ))}
+        </span>
         <br />
         <em className="text-[#666]">{p.venueDetail}</em>
       </p>
