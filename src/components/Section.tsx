@@ -33,33 +33,64 @@ export function NewsList({ items }: { items: NewsItem[] }) {
 }
 
 export function PublicationItem({ p }: { p: Publication }) {
+  const liveDemoUrl = p.links?.find((l) => l.label === "Live Demo")?.url;
+  const hasTeaserCard = Boolean(p.teaserImage);
+  const titleEl = (
+    <span className="font-semibold inline-block relative">
+      {p.teaserImage ? (
+        <>
+          <span className="inline-block decoration-[#ccc] underline-offset-2 group-hover:underline">
+            {p.title}
+          </span>
+          <span className="absolute right-full mr-3 top-0 flex items-start opacity-0 pointer-events-none group-hover:opacity-100 group-hover:pointer-events-auto transition-opacity z-10">
+            <span className="w-64 shrink-0 overflow-hidden rounded border border-[#e5e5e5] bg-white shadow-md block">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src={p.teaserImage}
+                alt=""
+                className="w-full h-auto block align-top"
+                width={256}
+              />
+            </span>
+          </span>
+        </>
+      ) : (
+        p.title
+      )}
+    </span>
+  );
   return (
-    <div className="mb-8 last:mb-0 -mx-2 px-2 py-1 rounded-md transition-colors hover:bg-[#fafafa]">
-      <p className="mb-1">
+    <div
+      className={`mb-8 last:mb-0 -mx-2 px-2 py-1 rounded-lg transition-all duration-200 border border-transparent hover:bg-white hover:shadow-md hover:shadow-[#000000]/[0.08] hover:border hover:border-[#e5e5e5] ${hasTeaserCard ? "group" : ""}`}
+    >
+      <p className="mb-1 relative">
         <span className="font-medium">{p.venue}</span>
         <br />
-        <span className="font-semibold inline-block relative group/title">
-          {p.teaserImage ? (
-            <>
-              <span className="inline-block">
-                {p.title}
+        {liveDemoUrl && hasTeaserCard ? (
+          <a
+            href={liveDemoUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="font-semibold inline-block relative no-underline text-[#1a1a1a] hover:text-[#1a1a1a] rounded focus:outline-none focus-visible:ring-2 focus-visible:ring-[#1a1a1a] focus-visible:ring-offset-2 cursor-pointer"
+          >
+            <span className="inline-block decoration-[#ccc] underline-offset-2 group-hover:underline">
+              {p.title}
+            </span>
+            <span className="absolute right-full mr-3 top-0 flex items-start opacity-0 pointer-events-none group-hover:opacity-100 group-hover:pointer-events-auto transition-opacity z-10">
+              <span className="w-64 shrink-0 overflow-hidden rounded border border-[#e5e5e5] bg-white shadow-md block">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src={p.teaserImage!}
+                  alt=""
+                  className="w-full h-auto block align-top"
+                  width={256}
+                />
               </span>
-              <span className="absolute right-full mr-3 top-0 flex items-start opacity-0 pointer-events-none group-hover/title:opacity-100 group-hover/title:pointer-events-auto transition-opacity z-10">
-                <span className="w-64 shrink-0 overflow-hidden rounded border border-[#e5e5e5] bg-white shadow-sm block">
-                  {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img
-                    src={p.teaserImage}
-                    alt=""
-                    className="w-full h-auto block align-top"
-                    width={256}
-                  />
-                </span>
-              </span>
-            </>
-          ) : (
-            p.title
-          )}
-        </span>
+            </span>
+          </a>
+        ) : (
+          titleEl
+        )}
         <br />
         <span>{p.authors}</span>
         <br />
