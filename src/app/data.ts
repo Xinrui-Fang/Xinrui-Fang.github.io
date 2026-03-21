@@ -15,86 +15,91 @@ export type Publication = {
 
 export const news: NewsItem[] = [
   {
+    date: "[Mar. 2026]",
+    content:
+      "✈️ We co-organized the workshop \"Beyond Cognitive Offloading: Conversational AI for Personal Growth\" in AHs 2026, OIST, Okinawa, Japan.",
+  },
+  {
     date: "[Feb. 2026]",
     content:
-      "I will collaborate to organize the workshop \"Beyond Cognitive Offloading: Conversational AI for Personal Growth\" in AHs 2026.",
+      "🎉 I will collaborate to organize the workshop \"Beyond Cognitive Offloading: Conversational AI for Personal Growth\" in AHs 2026.",
   },
   {
     date: "[Jan. 2026]",
     content:
-      "I presented \"Designing An LLM-based Interactive System to Support Critical Paper Reading\" at the domestic conference HCI研究会 216.",
+      "📢 I presented \"Designing An LLM-based Interactive System to Support Critical Paper Reading\" at the domestic conference HCI研究会 216.",
   },
   {
     date: "[Dec. 2025]",
     content:
-      "Honored to receive the JSPS DC2 Research Fellowship (Japan Society for the Promotion of Science Research Fellowship for Young Scientists)!",
+      "🎉 Honored to receive the JSPS DC2 Research Fellowship (Japan Society for the Promotion of Science Research Fellowship for Young Scientists)!",
   },
   {
     date: "[Dec. 2025]",
-    content: "One first-authored paper has been conditionally accepted to ACM IUI 2026.",
+    content: "🎉 One first-authored paper has been conditionally accepted to ACM IUI 2026.",
   },
   {
     date: "[Apr. 2025]",
     content:
-      "First time attending CHI in person, had a great time co-hosting the Meta-HCI workshop. The After Party was a blast!",
+      "📢 First time attending CHI in person, had a great time co-hosting the Meta-HCI workshop. The After Party was a blast!",
   },
   {
     date: "[Feb. 2025]",
-    content: "One first-authored paper is accepted to CHI Late Breaking Work 2025.",
+    content: "🎉 One first-authored paper is accepted to CHI Late Breaking Work 2025.",
   },
   {
     date: "[Jan. 2025]",
     content:
-      "I will collaborate to organize the Meta-HCI: First Workshop on Meta-Research in HCI in CHI 2025.",
+      "🎉 I will collaborate to organize the Meta-HCI: First Workshop on Meta-Research in HCI in CHI 2025.",
   },
   {
     date: "[Nov. 2024]",
     content:
-      "I visited and gave talks at Computational Behavior Lab at Aalto University; Multimodality Research Group at Helsinki University; and Ubiquitous Computing Center at Oulu University. Appreciate the warm welcomes!",
+      "✈️ I visited and gave talks at Computational Behavior Lab at Aalto University; Multimodality Research Group at Helsinki University; and Ubiquitous Computing Center at Oulu University. Appreciate the warm welcomes!",
   },
   {
     date: "[Apr. 2024]",
-    content: "Joined IIS Lab, UTokyo to start my PhD life.",
+    content: "📢 Joined IIS Lab, UTokyo to start my PhD life.",
   },
   {
     date: "[Mar. 2024]",
-    content: "Selected for the SPRING GX Research Fellowship.",
+    content: "🎉 Selected for the SPRING GX Research Fellowship.",
   },
   {
     date: "[Mar. 2024]",
-    content: "I will join the UTokyo for my PhD study since April.",
+    content: "📢 I will join the UTokyo for my PhD study since April.",
   },
   {
     date: "[Aug. 2022]",
-    content: '"Volearn" is accepted to Ubicomp IMWUT 2022.',
+    content: '🎉 "Volearn" is accepted to Ubicomp IMWUT 2022.',
   },
   {
     date: "[Apr. 2022]",
-    content: "Joined Rakuten Group Inc as an application engineer.",
+    content: "📢 Joined Rakuten Group Inc as an application engineer.",
   },
   {
     date: "[Mar. 2022]",
-    content: "Received my master degree from the Keio University.",
+    content: "🎉 Received my master degree from the Keio University.",
   },
   {
     date: "[Feb. 2022]",
-    content: '"Knock Knock" is accepted to Augmented Humans 2022.',
+    content: '🎉 "Knock Knock" is accepted to Augmented Humans 2022.',
   },
   {
     date: "[Dec. 2021]",
-    content: '"Knock Knock" won 2nd place of SONY Sensing Solution Hackathon.',
+    content: '🎉 "Knock Knock" won 2nd place of SONY Sensing Solution Hackathon.',
   },
   {
     date: "[Oct. 2021]",
-    content: '"Volearn" is presented to UIST 2021 Demo session.',
+    content: '📢 "Volearn" is presented to UIST 2021 Demo session.',
   },
   {
     date: "[Oct. 2021]",
-    content: "Served as the student volunteer for UIST 2021 and ASSETS 2021.",
+    content: "📢 Served as the student volunteer for UIST 2021 and ASSETS 2021.",
   },
   {
     date: "[Apr. 2021]",
-    content: '"FacialPen" is accepted to Asian CHI Symposium 2021.',
+    content: '🎉 "FacialPen" is accepted to Asian CHI Symposium 2021.',
   },
 ];
 
@@ -129,7 +134,7 @@ export const publications: Publication[] = [
       "Jonas Oppenlaender, Sylvain Malacria, Xinrui Fang, Niels van Berkel, Fanny Chevalier, Koji Yatani, Simo Hosio",
     venueDetail:
       "In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA '25), 2025.",
-    links: [{ label: "PDF", url: "#" }],
+    links: [{ label: "PDF", url: "https://doi.org/10.1145/3706599.3706723" }],
   },
   {
     venue: "CPHS 2022",
@@ -137,7 +142,7 @@ export const publications: Publication[] = [
       "Light Guidance Control of Human Drivers: Driver Modeling, Control System Design, and VR Experiment",
     authors: "M Takeda, M Inoue, Xinrui Fang, Y Minami, JM Maestre",
     venueDetail: "4th IFAC Workshop on Cyber-Physical and Human Systems CPHS, 2022.",
-    links: [{ label: "PDF", url: "#" }],
+    links: [{ label: "PDF", url: "https://doi.org/10.1016/j.ifacol.2023.01.099" }],
   },
   {
     venue: "IMWUT 2022",
@@ -147,7 +152,7 @@ export const publications: Publication[] = [
     venueDetail:
       "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2022.",
     links: [
-      { label: "PDF", url: "#" },
+      { label: "PDF", url: "https://doi.org/10.1145/3534576" },
       { label: "Video", url: "#" },
     ],
   },
@@ -157,7 +162,7 @@ export const publications: Publication[] = [
       "Knock Knock: A Children-oriented Vocabulary Learning Tangible User Interaction System",
     authors: "Xinrui Fang, Takuro Watanabe, Chengshuo Xia, Arthur Torck",
     venueDetail: "Proceedings of the Augmented Humans International Conference (AHs), 2022.",
-    links: [{ label: "PDF", url: "#" }],
+    links: [{ label: "PDF", url: "https://doi.org/10.1145/3519391.3519403" }],
     award: "Sony Sensing Solution Hackathon: Outstanding Award",
   },
   {
@@ -165,7 +170,7 @@ export const publications: Publication[] = [
     title: "FacialPen: Using Facial Detection to Augment Pen-Based Interaction",
     authors: "Xinrui Fang, Chengshuo Xia, Yuta Sugiura",
     venueDetail: "Proceedings of the Asian CHI Symposium 2021 (Asian CHI), 2021.",
-    links: [{ label: "PDF", url: "#" }],
+    links: [{ label: "PDF", url: "https://doi.org/10.1145/3429360.3467672" }],
   },
   {
     venue: "UIST 2021",
@@ -173,6 +178,6 @@ export const publications: Publication[] = [
     authors: "Chengshuo Xia, Xinrui Fang, Yuta Sugiura",
     venueDetail:
       "Adjunct Proceedings of the 34th Annual ACM Symposium on User Interface Software and Technology (UIST Demo), 2022.",
-    links: [{ label: "PDF", url: "#" }],
+    links: [{ label: "PDF", url: "https://doi.org/10.1145/3474349.3480186" }],
   },
 ];
