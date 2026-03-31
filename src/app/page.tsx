@@ -54,10 +54,10 @@ export default function Home() {
 
       <Section id="about" title="About Me">
         <p className="mb-4">
-          I am a 2nd year PhD student specializing in Human-Computer Interaction
+          I am a 3rd year PhD student, JSPS DC2 Research Fellowship holder, specializing in Human-Computer Interaction
           (HCI) at the University of Tokyo, under the supervision of{" "}
           <a href="https://iis-lab.org/member/koji-yatani/" target="_blank" rel="noopener noreferrer" className="text-[#1a1a1a] underline decoration-[#999] underline-offset-2 hover:decoration-[#1a1a1a]">Prof. Koji Yatani</a>. My passion is to design critical AI tools that foster human’s
-          science communication and well-being. Previously I was working in the
+          higher-order thinking and well-being. Previously I was working in the
           Rakuten Group Inc. as an Application Engineer for 2 years. Before
           that, I got my master degree from the Keio University under the
           supervision of <a href="https://lclab.org/people/yutasugiura" target="_blank" rel="noopener noreferrer" className="text-[#1a1a1a] underline decoration-[#999] underline-offset-2 hover:decoration-[#1a1a1a]">Prof. Yuta Sugiura</a>, and got my bachelor degree from the
@@ -65,7 +65,7 @@ export default function Home() {
         </p>
         <p className="mb-4">
           I like making coffee, workout and playing console games in my leisure
-          time. I am also a collector of 怪獣ソフビ (kaijū sofubi). Recently, I
+          time. I am also a collector of kaijū sofubi. Recently, I
           am playing Battlefield 6 on PS5.
         </p>
         <div className="flex flex-wrap items-center gap-x-5 gap-y-2 mt-6">
