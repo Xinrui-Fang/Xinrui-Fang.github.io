@@ -1,4 +1,5 @@
 import { Section, PublicationItem } from "@/components/Section";
+import { assetPath } from "@/lib/asset-path";
 import { CollapsibleNewsList } from "@/components/CollapsibleNewsList";
 import { news, publications } from "./data";
 import Image from "next/image";
@@ -85,7 +86,7 @@ export default function Home() {
             <Twitter size={18} strokeWidth={2} />
             <span>X</span>
           </a>
-          <a href="/xinrui-fang.pdf" target="_blank" rel="noopener noreferrer" aria-label="CV" className="flex items-center gap-1.5 text-[#666] hover:text-[#1a1a1a] transition-colors font-sans text-sm no-underline rounded focus:outline-none focus-visible:ring-2 focus-visible:ring-[#1a1a1a] focus-visible:ring-offset-2">
+          <a href={assetPath("/xinrui-fang.pdf")} target="_blank" rel="noopener noreferrer" aria-label="CV" className="flex items-center gap-1.5 text-[#666] hover:text-[#1a1a1a] transition-colors font-sans text-sm no-underline rounded focus:outline-none focus-visible:ring-2 focus-visible:ring-[#1a1a1a] focus-visible:ring-offset-2">
             <FileText size={18} strokeWidth={2} />
             <span>CV</span>
           </a>

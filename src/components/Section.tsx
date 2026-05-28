@@ -1,4 +1,5 @@
 import type { NewsItem, Publication } from "@/app/data";
+import { assetPath } from "@/lib/asset-path";
 
 export function Section({
   title,
@@ -61,7 +62,7 @@ export function PublicationItem({ p }: { p: Publication }) {
             >
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
-                src={p.teaserImage!}
+                src={assetPath(p.teaserImage!)}
                 alt="View Live Demo"
                 className="w-full h-auto block align-top"
                 width={256}
@@ -71,7 +72,7 @@ export function PublicationItem({ p }: { p: Publication }) {
             <span className="w-64 shrink-0 overflow-hidden rounded border border-[#e5e5e5] bg-white shadow-md block">
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
-                src={p.teaserImage!}
+                src={assetPath(p.teaserImage!)}
                 alt=""
                 className="w-full h-auto block align-top"
                 width={256}

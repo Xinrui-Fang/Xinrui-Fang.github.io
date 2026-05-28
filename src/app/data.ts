@@ -119,6 +119,15 @@ export const publications: Publication[] = [
     ],
   },
   {
+    venue: "AHs 2026",
+    title:
+      "Beyond Cognitive Offloading: Conversational AI for Personal Growth",
+    authors: "Dániel Szabó, Niels van Berkel, Benjamin Tag, Rune Møberg Jacobsen, Jorge Goncalves, Xinrui Fang, Zefan Sramek, Koji Yatani, Aku Visuri, Simo Hosio",
+    venueDetail:
+      "In Proceedings of the Augmented Humans International Conference (AHs EA '26), 2026.",
+    links: [{ label: "PDF", url: "https://doi.org/10.1145/3795011.3797158" }],
+  },
+  {
     venue: "CHI 2025",
     title:
       "Exploring Practices, Challenges, and Design Implications for Citation Foraging, Management, and Synthesis",
