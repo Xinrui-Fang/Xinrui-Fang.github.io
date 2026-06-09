@@ -112,7 +112,7 @@ export const publications: Publication[] = [
     venueDetail: "To appear in ACM Conference on Intelligent User Interfaces (ACM IUI) 2026.",
     teaserImage: "/teaser-iui26.png",
     links: [
-      { label: "PDF", url: "https://arxiv.org/abs/2510.15234" },
+      { label: "PDF", url: "https://doi.org/10.1145/3742413.3789069" },
       { label: "Code", url: "https://github.com/Xinrui-Fang/InSituCPR" },
       { label: "Project Page", url: "https://xinrui.design/InSituCPR/" },
       { label: "Live Demo", url: "https://insitucpr.org/" },
