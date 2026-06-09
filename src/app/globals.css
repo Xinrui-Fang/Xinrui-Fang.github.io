@@ -6,6 +6,10 @@
   --foreground: #1a1a1a;
   --muted: #666;
   --border: #e5e5e5;
+  --banner-sage: #8fa68e;
+  --banner-sage-deep: #5f7260;
+  --banner-lilac: #ebe8f0;
+  --banner-cream: #f6f5f1;
 }
 
 body {

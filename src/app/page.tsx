@@ -1,4 +1,5 @@
 import { Section, PublicationItem } from "@/components/Section";
+import { HeaderBanner } from "@/components/HeaderBanner";
 import { assetPath } from "@/lib/asset-path";
 import { CollapsibleNewsList } from "@/components/CollapsibleNewsList";
 import { news, publications } from "./data";
@@ -7,7 +8,7 @@ import { GraduationCap, Github, Linkedin, Twitter, FileText } from "lucide-react
 
 export default function Home() {
   return (
-    <div className="min-h-screen max-w-2xl mx-auto px-6 pt-24 pb-16 sm:px-8 sm:pt-28">
+    <div className="min-h-screen max-w-2xl mx-auto px-6 pb-16 sm:px-8">
       <a href="#main" className="skip-link font-sans">
         Skip to content
       </a>
@@ -24,20 +25,25 @@ export default function Home() {
         </div>
       </nav>
 
-      <main id="main">
-      <header className="mb-20 flex flex-col items-center gap-6 sm:flex-row sm:items-start">
-        <div className="shrink-0">
-          <Image
-            src="/avatar.png"
-            alt="Xinrui Fang"
-            width={120}
-            height={120}
-            className="object-cover aspect-square border border-[#e5e5e5]"
-            priority
-            unoptimized
-          />
+      <main id="main" className="pt-[3.25rem]">
+      <header className="mb-20">
+        <div className="relative -mx-6 sm:-mx-8">
+          <HeaderBanner />
         </div>
-        <div className="min-w-0 flex-1 text-center sm:text-left">
+
+        <div className="relative z-[1] flex flex-col items-center gap-6 sm:flex-row sm:items-end -mt-10 sm:-mt-12">
+          <div className="shrink-0">
+            <Image
+              src="/avatar.png"
+              alt="Xinrui Fang"
+              width={120}
+              height={120}
+              className="object-cover aspect-square border-2 border-white shadow-md ring-1 ring-[#e5e5e5]"
+              priority
+              unoptimized
+            />
+          </div>
+          <div className="min-w-0 flex-1 text-center sm:text-left pb-1">
         <h1 className="font-sans text-2xl font-semibold tracking-tight mb-2">
           Xinrui Fang
         </h1>
@@ -50,6 +56,7 @@ export default function Home() {
         <p className="font-sans text-sm">
           <a href="mailto:xinrui.fang@iis-lab.org" className="text-[#1a1a1a] underline decoration-[#ccc] underline-offset-2 hover:decoration-[#1a1a1a] transition-colors">xinrui.fang (at) iis-lab.org</a>
         </p>
+          </div>
         </div>
       </header>
 
