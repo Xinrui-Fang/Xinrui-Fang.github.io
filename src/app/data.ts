@@ -109,7 +109,7 @@ export const publications: Publication[] = [
     title: "LLM-based In-situ Thought Exchanges for Critical Paper Reading",
     authors:
       "Xinrui Fang, Anran Xu, Chi-Lan Yang, Ya-Fang Lin, Sylvain Malacria, Koji Yatani",
-    venueDetail: "To appear in ACM Conference on Intelligent User Interfaces (ACM IUI) 2026.",
+    venueDetail: "In Proceedings of the 31st International Conference on Intelligent User Interfaces (ACM IUI) 2026.",
     teaserImage: "/teaser-iui26.png",
     links: [
       { label: "PDF", url: "https://doi.org/10.1145/3742413.3789069" },
