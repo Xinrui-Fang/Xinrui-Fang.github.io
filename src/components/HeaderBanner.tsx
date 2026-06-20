@@ -71,22 +71,22 @@ export function HeaderBanner({ className = "" }: { className?: string }) {
         <rect width="1200" height="220" fill="url(#banner-ground)" />
 
         {/* Lilac flower bokeh */}
-        <Bokeh cx="120" cy="48" r="36" fill={colors.lilac} opacity={0.7} />
-        <Bokeh cx="280" cy="72" r="22" fill={colors.white} opacity={0.85} />
-        <Bokeh cx="420" cy="36" r="28" fill={colors.lilacSoft} opacity={0.9} />
-        <Bokeh cx="560" cy="58" r="18" fill={colors.lilac} opacity={0.55} />
-        <Bokeh cx="720" cy="42" r="32" fill={colors.white} opacity={0.75} />
-        <Bokeh cx="880" cy="68" r="24" fill={colors.lilac} opacity={0.6} />
-        <Bokeh cx="1020" cy="34" r="20" fill={colors.lilacSoft} opacity={0.8} />
-        <Bokeh cx="1120" cy="56" r="26" fill={colors.white} opacity={0.65} />
+        <Bokeh cx={120} cy={48} r={36} fill={colors.lilac} opacity={0.7} />
+        <Bokeh cx={280} cy={72} r={22} fill={colors.white} opacity={0.85} />
+        <Bokeh cx={420} cy={36} r={28} fill={colors.lilacSoft} opacity={0.9} />
+        <Bokeh cx={560} cy={58} r={18} fill={colors.lilac} opacity={0.55} />
+        <Bokeh cx={720} cy={42} r={32} fill={colors.white} opacity={0.75} />
+        <Bokeh cx={880} cy={68} r={24} fill={colors.lilac} opacity={0.6} />
+        <Bokeh cx={1020} cy={34} r={20} fill={colors.lilacSoft} opacity={0.8} />
+        <Bokeh cx={1120} cy={56} r={26} fill={colors.white} opacity={0.65} />
 
         {/* Sage foliage depth */}
-        <Bokeh cx="180" cy="140" r="48" fill={colors.olive} opacity={0.28} />
-        <Bokeh cx="360" cy="160" r="56" fill={colors.sageDeep} opacity={0.22} />
-        <Bokeh cx="540" cy="150" r="42" fill={colors.olive} opacity={0.25} />
-        <Bokeh cx="760" cy="168" r="52" fill={colors.sageDeep} opacity={0.2} />
-        <Bokeh cx="980" cy="145" r="44" fill={colors.olive} opacity={0.26} />
-        <Bokeh cx="1100" cy="170" r="38" fill={colors.sageDeep} opacity={0.18} />
+        <Bokeh cx={180} cy={140} r={48} fill={colors.olive} opacity={0.28} />
+        <Bokeh cx={360} cy={160} r={56} fill={colors.sageDeep} opacity={0.22} />
+        <Bokeh cx={540} cy={150} r={42} fill={colors.olive} opacity={0.25} />
+        <Bokeh cx={760} cy={168} r={52} fill={colors.sageDeep} opacity={0.2} />
+        <Bokeh cx={980} cy={145} r={44} fill={colors.olive} opacity={0.26} />
+        <Bokeh cx={1100} cy={170} r={38} fill={colors.sageDeep} opacity={0.18} />
 
         {/* Subtle navy accent — echoes jacket tone */}
         <ellipse
