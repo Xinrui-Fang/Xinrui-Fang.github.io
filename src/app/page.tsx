@@ -54,7 +54,7 @@ export default function Home() {
           The University of Tokyo
         </p>
         <p className="font-sans text-sm">
-          <a href="mailto:xinrui.fang@iis-lab.org" className="text-[#1a1a1a] underline decoration-[#ccc] underline-offset-2 hover:decoration-[#1a1a1a] transition-colors">xinrui.fang (at) iis-lab.org</a>
+          <a href="mailto:xinrui.fang@iis-lab.org" className="text-[#1a1a1a] underline decoration-[#ccc] underline-offset-2 hover:decoration-[#1a1a1a] transition-colors">xinrui.fang (at) iis-lab.org / xinrui.fang (at) g.ecc.u-tokyo.ac.jp</a>
         </p>
           </div>
         </div>
@@ -67,8 +67,8 @@ export default function Home() {
           <a href="https://iis-lab.org/member/koji-yatani/" target="_blank" rel="noopener noreferrer" className="text-[#1a1a1a] underline decoration-[#999] underline-offset-2 hover:decoration-[#1a1a1a]">Prof. Koji Yatani</a>. My passion is to design critical AI tools that foster human’s
           higher-order thinking and well-being. Previously I was working in the
           Rakuten Group Inc. as an Application Engineer for 2 years. Before
-          that, I got my master degree from the Keio University under the
-          supervision of <a href="https://lclab.org/people/yutasugiura" target="_blank" rel="noopener noreferrer" className="text-[#1a1a1a] underline decoration-[#999] underline-offset-2 hover:decoration-[#1a1a1a]">Prof. Yuta Sugiura</a>, and got my bachelor degree from the
+          that, I received my master degree from the Keio University under the
+          supervision of <a href="https://lclab.org/people/yutasugiura" target="_blank" rel="noopener noreferrer" className="text-[#1a1a1a] underline decoration-[#999] underline-offset-2 hover:decoration-[#1a1a1a]">Prof. Yuta Sugiura</a>, and recieved my bachelor degree from the
           Dalian University of Technology.
         </p>
         <p className="mb-4">
