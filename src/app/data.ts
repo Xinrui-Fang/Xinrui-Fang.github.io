@@ -32,7 +32,7 @@ export const news: NewsItem[] = [
   {
     date: "[Dec. 2025]",
     content:
-      "🎉 Honored to receive the JSPS DC2 Research Fellowship (Japan Society for the Promotion of Science Research Fellowship for Young Scientists)!",
+      "🎉 Honored to receive the <a href=\"https://www.jsps.go.jp/english/e-pd/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">JSPS DC2 Research Fellowship</a> (Japan Society for the Promotion of Science Research Fellowship for Young Scientists)!",
   },
   {
     date: "[Dec. 2025]",
@@ -63,7 +63,7 @@ export const news: NewsItem[] = [
   },
   {
     date: "[Mar. 2024]",
-    content: "🎉 Selected for the SPRING GX Research Fellowship.",
+    content: "🎉 Selected for the <a href=\"https://www.u-tokyo.ac.jp/en/academics/spring_gx.html\" target=\"_blank\" rel=\"noopener noreferrer\">SPRING GX Research Fellowship</a>.",
   },
   {
     date: "[Mar. 2024]",

@@ -62,9 +62,14 @@ export default function Home() {
 
       <Section id="about" title="About Me">
         <p className="mb-4">
-          I am a 3rd year PhD student, JSPS DC2 Research Fellowship holder, specializing in Human-Computer Interaction
+          I am a 3rd year PhD student, specializing in Human-Computer Interaction
           (HCI) at the University of Tokyo, under the supervision of{" "}
-          <a href="https://iis-lab.org/member/koji-yatani/" target="_blank" rel="noopener noreferrer" className="text-[#1a1a1a] underline decoration-[#999] underline-offset-2 hover:decoration-[#1a1a1a]">Prof. Koji Yatani</a>. My passion is to design critical AI tools that foster human’s
+          <a href="https://iis-lab.org/member/koji-yatani/" target="_blank" rel="noopener noreferrer" className="text-[#1a1a1a] underline decoration-[#999] underline-offset-2 hover:decoration-[#1a1a1a]">Prof. Koji Yatani</a>. 
+          My work is supported by{" "}
+          <a href="https://www.jsps.go.jp/english/e-pd/index.html" target="_blank" rel="noopener noreferrer" className="text-[#1a1a1a] underline decoration-[#999] underline-offset-2 hover:decoration-[#1a1a1a]">JSPS DC2 Fellowship</a>
+          {" "}and{" "}
+          <a href="https://www.u-tokyo.ac.jp/en/academics/spring_gx.html" target="_blank" rel="noopener noreferrer" className="text-[#1a1a1a] underline decoration-[#999] underline-offset-2 hover:decoration-[#1a1a1a]">SPRING GX Fellowship</a>.
+          My passion is to design critical AI tools that foster human’s
           higher-order thinking and well-being. Previously I was working in the
           Rakuten Group Inc. as an Application Engineer for 2 years. Before
           that, I received my master degree from the Keio University under the
@@ -121,8 +126,8 @@ export default function Home() {
       <Section id="awards" title="Awards & Honors">
         <ul className="list-none space-y-2 text-[#1a1a1a]">
           <li className="flex gap-4"><span className="text-[#666] shrink-0">2026</span> Google Cloud Research Credit Grant ($1,000)</li>
-          <li className="flex gap-4"><span className="text-[#666] shrink-0">2025</span> JSPS Research Fellowships for Young Scientists (DC2) (2026.04–2028.03)</li>
-          <li className="flex gap-4"><span className="text-[#666] shrink-0">2024</span> SPRING GX Fellowship (2024.04–2026.03)</li>
+          <li className="flex gap-4"><span className="text-[#666] shrink-0">2025</span> <a href="https://www.jsps.go.jp/english/e-pd/index.html" target="_blank" rel="noopener noreferrer" className="underline decoration-[#ccc] underline-offset-2 hover:decoration-[#666]">JSPS Research Fellowships for Young Scientists (DC2)</a> (2026.04–2028.03)</li>
+          <li className="flex gap-4"><span className="text-[#666] shrink-0">2024</span> <a href="https://www.u-tokyo.ac.jp/en/academics/spring_gx.html" target="_blank" rel="noopener noreferrer" className="underline decoration-[#ccc] underline-offset-2 hover:decoration-[#666]">SPRING GX Fellowship</a> (2024.04–2026.03)</li>
           <li className="flex gap-4"><span className="text-[#666] shrink-0">2021</span> Sony Sensing Solution Hackathon: Outstanding Award (¥100,000)</li>
           <li className="flex gap-4"><span className="text-[#666] shrink-0">2021</span> Keio University Graduate School Scholarship (¥500,000)</li>
           <li className="flex gap-4"><span className="text-[#666] shrink-0">2021</span> KF-ICC Scholarship (¥720,000)</li>
