@@ -71,8 +71,7 @@ export default function Home() {
         </p>
         <p className="mb-4">
           I like making coffee, workout and playing console games in my leisure
-          time. I am also a collector of kaijū sofubi. Recently, I
-          am playing Battlefield 6 on PS5.
+          time. I am also a collector of kaijū sofubi.
         </p>
         <div className="flex flex-wrap items-center gap-x-5 gap-y-2 mt-6">
           <a href="https://scholar.google.com/citations?user=ere6gk4AAAAJ&hl=en" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar" className="flex items-center gap-1.5 text-[#666] hover:text-[#1a1a1a] transition-colors font-sans text-sm no-underline rounded focus:outline-none focus-visible:ring-2 focus-visible:ring-[#1a1a1a] focus-visible:ring-offset-2">

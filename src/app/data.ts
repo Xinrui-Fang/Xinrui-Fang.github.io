@@ -15,6 +15,11 @@ export type Publication = {
 
 export const news: NewsItem[] = [
   {
+    date: "[Jul. 2026]",
+    content:
+      "✈️ Attended IUI 2026 in Limassol, Cyprus to present our work on \"LLM-based In-situ Thought Exchanges for Critical Paper Reading\".",
+  },
+  {
     date: "[Mar. 2026]",
     content:
       "✈️ We co-organized the workshop \"Beyond Cognitive Offloading: Conversational AI for Personal Growth\" in AHs 2026, OIST, Okinawa, Japan.",
