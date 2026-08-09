@@ -48,7 +48,7 @@ export default function Home() {
           The University of Tokyo
         </p>
         <p className="font-sans text-sm">
-          <a href="mailto:xinrui.fang@iis-lab.org" className="text-[#1a1a1a] underline decoration-[#ccc] underline-offset-2 hover:decoration-[#1a1a1a] transition-colors">xinrui.fang (at) iis-lab.org / xinrui.fang (at) g.ecc.u-tokyo.ac.jp</a>
+          <a href="mailto:xinrui.fang@iis-lab.org" className="text-[#1a1a1a] underline decoration-[#ccc] underline-offset-2 hover:decoration-[#1a1a1a] transition-colors">xinrui.fang (at) iis-lab.org</a>
         </p>
         </div>
       </header>
