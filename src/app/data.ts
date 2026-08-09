@@ -17,7 +17,7 @@ export const news: NewsItem[] = [
   {
     date: "[Aug. 2026]",
     content:
-      "🚄 Attended the **AI + Wellbeing Workshop** co-hosted by Koji Yatani’s Lab and Naomi Yamashita’s Lab in Nagoya, Japan.",
+      "🚄 Attended the 'AI + Wellbeing' Workshop co-hosted by Koji Yatani’s Lab and Naomi Yamashita’s Lab in Nagoya, Japan.",
   },
   {
     date: "[Jul. 2026]",
