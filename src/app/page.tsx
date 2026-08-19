@@ -1,4 +1,5 @@
 import { Section, PublicationItem } from "@/components/Section";
+import { SofubiTrigger } from "@/components/SofubiTrigger";
 import { assetPath } from "@/lib/asset-path";
 import { CollapsibleNewsList } from "@/components/CollapsibleNewsList";
 import { news, publications } from "./data";
@@ -48,7 +49,7 @@ export default function Home() {
           The University of Tokyo
         </p>
         <p className="font-sans text-sm">
-          <a href="mailto:xinrui.fang@iis-lab.org" className="text-[#1a1a1a] underline decoration-[#ccc] underline-offset-2 hover:decoration-[#1a1a1a] transition-colors">xinrui.fang (at) iis-lab.org / xinrui.fang (at) g.ecc.u-tokyo.ac.jp</a>
+          <a href="mailto:xinrui.fang@iis-lab.org" className="text-[#1a1a1a] underline decoration-[#ccc] underline-offset-2 hover:decoration-[#1a1a1a] transition-colors">xinrui.fang (at) iis-lab.org</a>
         </p>
         </div>
       </header>
@@ -58,20 +59,19 @@ export default function Home() {
           I am a 3rd year PhD student, specializing in Human-Computer Interaction
           (HCI) at the University of Tokyo, under the supervision of{" "}
           <a href="https://iis-lab.org/member/koji-yatani/" target="_blank" rel="noopener noreferrer" className="text-[#1a1a1a] underline decoration-[#999] underline-offset-2 hover:decoration-[#1a1a1a]">Prof. Koji Yatani</a>. 
-          My work is supported by{" "}
-          <a href="https://www.jsps.go.jp/english/e-pd/index.html" target="_blank" rel="noopener noreferrer" className="text-[#1a1a1a] underline decoration-[#999] underline-offset-2 hover:decoration-[#1a1a1a]">JSPS DC2 Fellowship</a>
+          My research is supported by{" "}
+          <a href="https://www.jsps.go.jp/english/e-pd/index.html" target="_blank" rel="noopener noreferrer" className="text-[#1a1a1a] underline decoration-[#999] underline-offset-2 hover:decoration-[#1a1a1a]">JSPS DC Fellowship</a>
           {" "}and{" "}
           <a href="https://www.u-tokyo.ac.jp/en/academics/spring_gx.html" target="_blank" rel="noopener noreferrer" className="text-[#1a1a1a] underline decoration-[#999] underline-offset-2 hover:decoration-[#1a1a1a]">SPRING GX Fellowship</a>.
-          My passion is to design critical AI tools that foster human’s
-          higher-order thinking and well-being. Previously I was working in the
+          Previously I was working in the
           Rakuten Group Inc. as an Application Engineer for 2 years. Before
           that, I received my master degree from the Keio University under the
           supervision of <a href="https://lclab.org/people/yutasugiura" target="_blank" rel="noopener noreferrer" className="text-[#1a1a1a] underline decoration-[#999] underline-offset-2 hover:decoration-[#1a1a1a]">Prof. Yuta Sugiura</a>, and recieved my bachelor degree from the
           Dalian University of Technology.
         </p>
         <p className="mb-4">
-          I like making coffee, workout and playing console games in my leisure
-          time. I am also a collector of kaijū sofubi.
+        I enjoy making coffee, working out, and playing console games in my free time. I also enjoy collecting{" "}
+          <SofubiTrigger /> art.
         </p>
         <div className="flex flex-wrap items-center gap-x-5 gap-y-2 mt-6">
           <a href="https://scholar.google.com/citations?user=ere6gk4AAAAJ&hl=en" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar" className="flex items-center gap-1.5 text-[#666] hover:text-[#1a1a1a] transition-colors font-sans text-sm no-underline rounded focus:outline-none focus-visible:ring-2 focus-visible:ring-[#1a1a1a] focus-visible:ring-offset-2">
@@ -99,9 +99,15 @@ export default function Home() {
 
       <Section id="research" title="Research Interests">
         <p>
-          <strong>Human Computer Interaction:</strong> Human–AI Interaction and
-          AI for Science, focusing on how AI can be designed to foster human
-          critical thinking and positively support mental well-being.
+          <strong>Human Computer Interaction:</strong> I am interested in understanding how AI is reshaping human life and in  designing AI systems that <span style={{
+      backgroundColor: "#d9f7e8",
+      padding: "2px 5px",
+      borderRadius: "4px",
+    }}>augment human thinking</span> rather than replace it, while <span style={{
+      backgroundColor: "#fff3b0",
+      padding: "2px 5px",
+      borderRadius: "4px",
+    }}>fostering human well-being</span> rather than undermining it.
         </p>
       </Section>
 
