@@ -15,6 +15,11 @@ export type Publication = {
 
 export const news: NewsItem[] = [
   {
+    date: "[Sept. 2026]",
+    content:
+      "✈️ SKicking off a two-month research visit at the AI:MIND lab at Aalborg University, Denmark, hosted by Prof. Niels van Berkel..",
+  },
+  {
     date: "[Aug. 2026]",
     content:
       "🚄 Attended the 'AI + Wellbeing' Workshop co-hosted by Koji Yatani’s Lab and Naomi Yamashita’s Lab in Nagoya, Japan.",
