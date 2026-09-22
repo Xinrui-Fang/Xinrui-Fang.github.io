@@ -17,7 +17,7 @@ export const news: NewsItem[] = [
   {
     date: "[Sept. 2026]",
     content:
-      "✈️ SKicking off a two-month research visit at the AI:MIND lab at Aalborg University, Denmark, hosted by Prof. Niels van Berkel..",
+      "✈️ Kicking off a two-month research visit at the AI:MIND lab at Aalborg University, Denmark, hosted by Prof. Niels van Berkel.",
   },
   {
     date: "[Aug. 2026]",
