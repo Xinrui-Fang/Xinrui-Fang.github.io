@@ -139,15 +139,13 @@ export default function Home() {
           External Reviewers
         </h3>
         <ul className="list-none space-y-1 text-[#666]">
-          <li>IEEE VR, 2026</li>
-          <li>ACM CHI Posters (LBW), 2022, 2025–2026</li>
+          <li>ACM CHI (2027), IEEE VR (2026), ACM CHI Poster (2022, 2025-2026)</li>
         </ul>
         <h3 className="font-sans text-xs font-medium uppercase tracking-wider text-[#666] mt-6 mb-2">
           Student Volunteer
         </h3>
         <ul className="list-none space-y-1 text-[#666]">
-          <li>The ACM Symposium on User Interface Software and Technology (UIST) 2021</li>
-          <li>The ACM SIGACCESS Conference on Computers and Accessibility (ASSETS) 2021</li>
+          <li>ACM UIST (2021), ACM ASSETS (2021)</li>
         </ul>
       </Section>
 
