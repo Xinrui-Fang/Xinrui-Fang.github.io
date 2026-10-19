@@ -15,6 +15,11 @@ export type Publication = {
 
 export const news: NewsItem[] = [
   {
+    date: "[Oct. 2026]",
+    content:
+      "✈️ Visited the <a href=\"https://ex-situ.lisn.upsaclay.fr/\" target=\"_blank\" rel=\"noopener noreferrer\">Ex)situ Group</a> at Université Paris-Sacla and the <a href=\"https://loop.lille.inria.fr/\" target=\"_blank\" rel=\"noopener noreferrer\">Loop Group</a>  at Inria Lille, and gave research talks at both.",
+  },
+  {
     date: "[Sept. 2026]",
     content:
       "✈️ Kicking off a two-month research visit at the AI:MIND lab at Aalborg University, Denmark, hosted by Prof. Niels van Berkel.",
